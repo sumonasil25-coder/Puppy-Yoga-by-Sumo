@@ -1,0 +1,6 @@
+{
+  "name": "Puppy Yoga Events — Stretch. Snuggle. Smile.",
+  "description": "India's premier puppy yoga and wellness experience platform connecting puppies, gentle yoga, and animal adoption.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
